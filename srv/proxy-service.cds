@@ -1,5 +1,5 @@
-/*service Proxy {
+service Proxy {
 
     
 
-}*/
+}
